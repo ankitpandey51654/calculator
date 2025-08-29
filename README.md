@@ -25,3 +25,5 @@ Calculator/
    ```bash
    git clone https://github.com/ankitpandey51654/calculator.git
    ```
+## 🔗 Live Demo
+[Click here to try the Calculator](https://ankitpandey51654.github.io/calculator/)
